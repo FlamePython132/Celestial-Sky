@@ -4,6 +4,8 @@ A KDE Plasma 6 widget that displays the current positions of solar system bodies
 
 ---
 
+> **Work in progress** — this widget is still experimental and under active testing. Expect bugs and breaking changes.
+
 ## Features
 
 - Displays the Sun, Moon, and all planets up to Neptune
