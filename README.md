@@ -2,9 +2,9 @@
 
 A KDE Plasma 6 widget that displays the current positions of solar system bodies along the sky arc, with accurate rise/set times and a time slider for previewing past and future positions.
 
----
-
 > **Work in progress** — this widget is still experimental and under active testing. Expect bugs and breaking changes.
+
+---
 
 ## Features
 
