@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Name": "Celestial Sky",
+        "Description": "Planetary positions in the sky",
+        "Icon": "weather-clear-night",
+        "Id": "com.mate.CelestialSky",
+        "Version": "0.5",
+        "Website": "",
+        "Authors": [{ "Name": "Tamás Máté", "Email": "royalpython132@gmail.com" }],
+        "Category": "Astronomy",
+        "License": "GPL-2.0-or-later"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
