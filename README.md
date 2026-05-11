@@ -10,12 +10,10 @@ A KDE Plasma 6 widget that displays the current positions of solar system bodies
 
 - Displays the Sun, Moon, and all planets up to Neptune
 - Accurate rise and set times via [astronomy-engine](https://github.com/cosinekitty/astronomy)
-- Time slider to fast-forward or rewind up to ±12 hours
 - Info panel showing rise/set times for currently visible objects
-- Moon phase images (8 phases)
-- Jupiter Great Red Spot rotation with flip mirroring
-- Saturn ring tilt with flip mirroring
-- Reddish horizon tint for the Sun and Moon
+- Moon phase images
+- Jupiter Great Red Spot rotation
+- Saturn ring tilt
 - Configurable location, planet size scale, and background opacity
 
 ---
